@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maxermine.github.io/rsschool-cv/
