@@ -5,6 +5,7 @@
 * **E-mail:** [maxgonoshilov@gmail.com](maxgonoshilov@gmail.com)
 * **Telegram** [maksimgonoshilov](https://t.me/maksimgonoshilov)
 * **GitHub** [maxermine](https://github.com/maxermine/)
+* **Discord** @maxermine
 ---
 ### About me
 Highly qualified specialist in RPA with strong computer science background and experience in OpenText Content Server development.\
@@ -18,7 +19,7 @@ Previously, I had experience in back-end development on the OpenText platform, n
 * Server Administration (Win server)
 * REST, SOAP
 ### Work experience
-* Team lead RPA (february 20200 - to present)
+* Team lead RPA (february 2020 - to present)
 * OpenText Content Server Developer/RPA Developer(march 2018 - february 2020)
 * System analyst (march 2017 - march 2018)
 ### Education
