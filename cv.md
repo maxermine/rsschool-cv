@@ -9,6 +9,5 @@
 ---
 ### About me
 Highly qualified specialist in RPA with strong computer science background and experience in OpenText Content Server development.
-
 In recent years, I have noticed that it is more interesting for me to write code than to develop on RPA platforms.
 Previously, I had experience in back-end development on the OpenText platform, now I want to try myself in the front-end part.
